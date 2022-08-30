@@ -1,4 +1,12 @@
+// this is a single line comment
+/* this is a 
+multi line comment */
 
-alert("Hello");
+console.log("Kabe Kurfess");
+console.log("Mexican");
 
-console.log("Hello");
+var name = "Kabe Kurfess";
+var food = "Mexican";
+
+console.log(name);
+console.log(food);
